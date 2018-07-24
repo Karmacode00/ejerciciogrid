@@ -1,0 +1,29 @@
+.col-1 {
+  background-color: yellow;
+  border: 10px solid white;
+}
+
+.col-2{
+  background-color: greenyellow;
+  border: 10px solid white;
+}
+
+.col-3{
+  background-color: cyan;
+  border: 10px solid white;
+}
+
+.col-4 {
+  background-color: blue;
+  border: 10px solid white;
+}
+
+.col-6 {
+  background-color: purple;
+  border: 10px solid white;
+}
+
+.col-12 {
+  background-color: palevioletred;
+  border: 10px solid white;
+}
